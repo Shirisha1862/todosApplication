@@ -1,2 +1,8 @@
 # todosApplication
 todos Application using html,css,javascript
+NAME : SHIRISHA MANGALI
+ID : CT08PP651
+DOMAIN : WEB DEVELOPMENT
+DURATION : 20-05-2024 TO 20-06-2024
+MENTOR :SRAVANI GOUNI
+DESCRIPTION : 
